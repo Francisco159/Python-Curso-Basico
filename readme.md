@@ -16,6 +16,10 @@ Practicar los fundamentos de python para aumentar mi conocimiento sobre el mundo
 - 01 - Variables
 - 02 - Operadores
 - 03 - Strings
+- 04 - Listas
+- 05 - Tuplas
+- 06 - Sets
+- 07 - Diccionarios
 
 ---
 
